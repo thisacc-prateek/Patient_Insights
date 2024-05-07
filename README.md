@@ -1,4 +1,5 @@
 # Power BI Project on Patient Dataset
+![Patient_Insights pbix](https://github.com/thisacc-prateek/Patient_Insights/assets/90107841/19f9c102-f123-40cd-ad3a-4e29abe0d795)
 
 ## INTRODUCTION
 ### Project Domain: Healthcare
